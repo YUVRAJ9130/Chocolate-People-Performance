@@ -1,3 +1,3 @@
 # PowerBI
 
-![Portfolio Dashboard](PowerBI Dashboard.jpg)
+![Portfolio Dashboard](PowerBI_Dashboard.jpg)
